@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+authors:
+  - family-names: "da Silva Arariba"
+    given-names: "Fábia"
+title: "Cógido para Prova 2"
+version: "1.0.0"
+doi: "10.5281/zenodo.1234567"
+date-released: "2026-07-11"
+url: "https://github.com"
